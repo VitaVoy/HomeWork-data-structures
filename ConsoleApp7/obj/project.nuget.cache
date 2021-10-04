@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l65nWMlx2/pzvjEp3XU5vtL01/bjDX0T/GBaedGNQTpYnLF59Gj5PNrnRFTXEYrrFENDbfCL8LSIa0KU8LEO+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vit\\source\\repos\\ConsoleApp7\\ConsoleApp7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vit\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
